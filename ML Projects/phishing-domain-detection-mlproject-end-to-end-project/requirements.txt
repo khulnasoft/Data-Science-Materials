@@ -1,4 +1,4 @@
-aiohttp==3.9.0
+aiohttp==3.8.1
 aiohttp-retry==2.5.2
 aiosignal==1.2.0
 alabaster==0.7.12
@@ -7,7 +7,7 @@ appdirs==1.4.4
 APScheduler==3.9.1
 arrow==1.2.2
 async-timeout==4.0.2
-asyncssh==2.14.2
+asyncssh==2.11.0
 asynctest==0.13.0
 atpublic==3.0.1
 attrs==21.4.0
@@ -36,7 +36,7 @@ configobj==5.0.6
 configparser==5.2.0
 cookiecutter==2.1.1
 coverage==6.4.1
-cryptography==41.0.6
+cryptography==37.0.1
 cycler==0.11.0
 dictdiffer==0.9.0
 diskcache==5.4.0

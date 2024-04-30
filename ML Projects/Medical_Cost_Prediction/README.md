@@ -85,4 +85,4 @@ And, that's it, the application should run perfectly locally, and you can test t
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/NvkAnirudh/Medical_Cost_Prediction/blob/main/LICENSE) file for details
 
 ## Acknowledgements
-Thanks to [Krish Naik](https://github.com/khulnasoft) for his informational videos
+Thanks to [Krish Naik](https://github.com/krishnaik06) for his informational videos
