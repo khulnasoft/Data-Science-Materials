@@ -6,5 +6,5 @@ ipykernel
 matplotlib
 flask 
 dvc
-mlflow==2.2.2
+mlflow==2.13.2
 -e .
