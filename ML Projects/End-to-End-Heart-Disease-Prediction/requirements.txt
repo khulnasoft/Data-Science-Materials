@@ -8,6 +8,6 @@ flask
 dvc
 catboost
 xgboost
-mlflow==2.14.2
+mlflow==3.5.0
 
 -e .
